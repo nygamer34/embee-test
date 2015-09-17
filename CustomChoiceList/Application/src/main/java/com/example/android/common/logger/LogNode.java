@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package com.example.android.common.logger;
-
+dsafa
 /**
  * Basic interface for a logging system that can output to one or more targets.
  * Note that in addition to classes that will output these logs in some format,
