@@ -29,7 +29,7 @@ import android.widget.TextView;
  * the <code>res/layout/</code> directory of this sample.
  */
 public class MainActivity extends ListActivity {
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreateBundle(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
         setListAdapter(new MyAdapter());
